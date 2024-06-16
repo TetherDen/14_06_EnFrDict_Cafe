@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\bin\Debug\hw_14_06_dict_or_queue.exe.config
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\bin\Debug\hw_14_06_dict_or_queue.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\bin\Debug\hw_14_06_dict_or_queue.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\obj\Debug\hw_14_06_dict_or_queue.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\obj\Debug\hw_14_06_dict_or_queue.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\obj\Debug\hw_14_06_dict_or_queue.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_14_06_dict_or_queue\obj\Debug\hw_14_06_dict_or_queue.pdb
